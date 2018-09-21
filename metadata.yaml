@@ -1,0 +1,25 @@
+_repo: The-Fleets-at-War_54275
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hurd, Archibald
+    aliases:
+    - Hurd, Archibald Spicer, Sir
+    - Hurd, Archibald S. (Archibald Spicer)
+    birthdate: 1869
+    deathdate: 1959
+    gutenberg_agent_id: '44208'
+    url: http://www.gutenberg.org/2009/agents/44208
+description: ''
+gutenberg_issued: '2017-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54275'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Fleets at War
+url: http://www.gutenberg.org/ebooks/54275
